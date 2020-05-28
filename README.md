@@ -6,7 +6,7 @@
 ## Run image ##
 `docker container run --network='host'  --gpus all --name master_ai nano/tf2_jupyterlab:0.1`
 
-You will see on the screen something similar to this:
+You will see on the screen something similar to this:  
 `  
     To access the notebook, open this file in a browser:
         file:///root/.local/share/jupyter/runtime/nbserver-1-open.html
